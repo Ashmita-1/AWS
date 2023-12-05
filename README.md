@@ -21,13 +21,13 @@ DATA IS THE NEW OIL
      
    - ***Less control over underlying cloud infrastructure*** - If a company wants more control of their compliance(at the under-neath layer), then it must refrain from using the cloud.
      
-   - ***Concerns about security risks like data privacy and online threats*** -
+   - ***Concerns about security risks like data privacy and online threats*** 
      
-   - ***Integration complexity with existing systems***
+   - ***Integration complexity with existing systems*** 
      
    - ***Unforeseen costs and unexpected expenses.*** <br> <br>
   
-4. **Gartner's Magic Quadrant** <br> <br>
+4. **Gartner's Magic Quadrant** -  A big org that does analytics part. <br> <br>
 
 5. **Public Cloud vs Private Cloud** -
 
@@ -41,7 +41,11 @@ DATA IS THE NEW OIL
    |e. Utilises shared infrastrucure.| e. Doesnt utilise shared infrastgucture.|
    |f. Supports multiple customers.| f. Supports **one** customer.|
    |g. Requires **high level** of security| g. Requires **medium level** security.|
-   |h. May use VLANs, access list, VRF file,  MPLs to logic
+   |h. May use VLANs, access list, VRF file,  MPLs to logic||
+   |i. Eg: Open Nebula|i. Eg: Eucalyptus|
+
+   ![image](https://github.com/Ashmita-1/AWS/assets/146411027/5e08699c-b9dd-4384-a7a2-765ab90ece62)
+
 
 6. 
 
