@@ -14,14 +14,14 @@ DATA IS THE NEW OIL
      
    - ***Advanced security*** - cloud ensures data security.
      
-   - ***Data loss prevention*** -  <br> <br>
+   - ***Data loss prevention*** - customers cant lose their data in **S3**. <br> <br>
   
 3. **Disadvantages of Cloud**
-   - ***Risk of vendor lock-in***- it's **impossible** for the organisation to move from one cloud to another.
+   - ***Risk of vendor lock-in***- it's **impossible** for the organisation to move from one cloud to another. 
      
-   - ***Less control over underlying cloud infrastructure***
+   - ***Less control over underlying cloud infrastructure*** - If a company wants more control of their compliance(at the under-neath layer), then it must refrain from using the cloud.
      
-   - ***Concerns about security risks like data privacy and online threats***
+   - ***Concerns about security risks like data privacy and online threats*** -
      
    - ***Integration complexity with existing systems***
      
