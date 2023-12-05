@@ -37,8 +37,8 @@ DATA IS THE NEW OIL
    | a. Hosted at **service provider** site. | a. Hosted at **Enterprise or Service Provider** site.|
    |b. Supports connectivity over the Internet. | b. Supports connectivity over internet/private network(WAN)|
    |c. Suitable for information not very sensitive. | c. Suitable for very sensitive information|
-   |d. Cheaper than Private cloud. | d. Costlier than public cloud.|
-   |e. Utilises shared infrastrucure.| e. Doesnt utilise shared infrastgucture.|
+   |d. Cheaper than Private cloud. | d. Costlier than the public cloud.|
+   |e. Utilises shared infrastrucure.| e. Doesn't utilise shared infrastgucture.|
    |f. Supports multiple customers.| f. Supports **one** customer.|
    |g. Requires **high level** of security| g. Requires **medium level** security.|
    |h. May use VLANs, access list, VRF file,  MPLs to logic||
@@ -47,6 +47,13 @@ DATA IS THE NEW OIL
    ![image](https://github.com/Ashmita-1/AWS/assets/146411027/5e08699c-b9dd-4384-a7a2-765ab90ece62)
 
 
-6. ****
+6. **Cloud Service Model**
+   - ***IaaS(Infrastructure as a Service)***
+   - ***PaaS(Platform as a Service)***
+   - ***SaaS(Software as a Service)***
+
+![image](https://github.com/Ashmita-1/AWS/assets/146411027/f357bc62-dd82-4761-bd8e-34d8a3970e2f)
+
+  
 
 
