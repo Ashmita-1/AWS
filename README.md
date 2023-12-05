@@ -21,14 +21,18 @@
 
 5. **Public Cloud vs Private Cloud** -
 
-   -----
-   Public Cloud                               | Private Cloud
-   -
-   a. Hosted at **service provider** site.         | a. Hosted at **Enterprise or Service Provider** site.
-   b. Supports connectivity over Internet.         | b. Supports connectivity over internet/private network(WAN)
-   c. Suitable for information not very sensitive. | c. Suitable for very sensitive information
-   d. Cheaper than Private cloud.                  | d. Costlier than public cloud.
-   e. Utilises shared infrastrucure.               | e. Doesnt utilise shared infrastgucture.
-   f. Supports multiple customers.                 | f. Supports **one** customer.
-   g. Requires **high level** of security          | g. Requires **medium level** security.
-   h. May use VLANs, access list, VRF file, MPLs to logic 
+   
+  |Public Cloud|Private Cloud|
+  |----|----|
+   | a. Hosted at **service provider** site. | a. Hosted at **Enterprise or Service Provider** site.|
+   |b. Supports connectivity over the Internet. | b. Supports connectivity over internet/private network(WAN)|
+   |c. Suitable for information not very sensitive. | c. Suitable for very sensitive information|
+   |d. Cheaper than Private cloud. | d. Costlier than public cloud.|
+   |e. Utilises shared infrastrucure.| e. Doesnt utilise shared infrastgucture.|
+   |f. Supports multiple customers.| f. Supports **one** customer.|
+   |g. Requires **high level** of security| g. Requires **medium level** security.|
+   |h. May use VLANs, access list, VRF file,  MPLs to logic
+
+6. 
+
+
