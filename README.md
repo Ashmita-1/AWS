@@ -33,7 +33,7 @@ DATA IS THE NEW OIL
 
    
   |Public Cloud|Private Cloud|
-  |----|----|
+  |------------|-------------|
    | a. Hosted at **service provider** site. | a. Hosted at **Enterprise or Service Provider** site.|
    |b. Supports connectivity over the Internet. | b. Supports connectivity over internet/private network(WAN)|
    |c. Suitable for information not very sensitive. | c. Suitable for very sensitive information|
@@ -47,6 +47,6 @@ DATA IS THE NEW OIL
    ![image](https://github.com/Ashmita-1/AWS/assets/146411027/5e08699c-b9dd-4384-a7a2-765ab90ece62)
 
 
-6. 
+6. ****
 
 
