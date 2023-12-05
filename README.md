@@ -55,5 +55,6 @@ DATA IS THE NEW OIL
 ![image](https://github.com/Ashmita-1/AWS/assets/146411027/f357bc62-dd82-4761-bd8e-34d8a3970e2f)
 
   
-
+7. **Compute services**
+   - 43 min
 
