@@ -8,13 +8,13 @@ DATA IS THE NEW OIL
      
    - ***Scalability and flexibility*** - cloud offers an **unlimited amount of virtual resources**
      
-   - ***Cost savings*** - 
+   - ***Cost savings*** 
      
-   - ***Better collaboration***
+   - ***Better collaboration*** - teams can still collaborate in different geographical regions.
      
    - ***Advanced security*** - cloud ensures data security.
      
-   - ***Data loss prevention*** <br> <br>
+   - ***Data loss prevention*** -  <br> <br>
   
 3. **Disadvantages of Cloud**
    - ***Risk of vendor lock-in***- it's **impossible** for the organisation to move from one cloud to another.
