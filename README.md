@@ -100,3 +100,12 @@ Oracle is the better
 
 ----
 # S3
+- Object Storage with durability of 99.99999%, 11 9's
+- Infinitely scaling storage
+- Can keep files in buckets
+- S3 is a global service but buckets are created in specific regions
+- Globally unique bucket names.
+
+- **Durability - 11 9's durability** = if 1,00,00,000 objects are stored, avg incurred loss of a single object once every 10,000 years.
+  
+- **S3 standard has 99.99% availabilty = not available 53 minutes a year.**
