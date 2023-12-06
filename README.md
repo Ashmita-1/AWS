@@ -65,7 +65,7 @@ Oracle is the better
 8. **AMAZON WEB SERVICES (AWS)**
    - Offers 200 fully featured services <br><br>
    
-8. **COMPUTE SERVICES**
+9. **COMPUTE SERVICES**
       -   ***Elastic Compute Cloud (EC2)***
       -   ***Elastic Container Service (ECS)***
       -   ***Lambda - Serverless*** - to make a database architecture **serverless**, t
