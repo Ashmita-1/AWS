@@ -55,10 +55,9 @@ Oracle is the better
      
    - ***SaaS(Software as a Service)***
 
-
-
 <br><br>
 7. **SERVICE MODELS**
+
    ![image](https://github.com/Ashmita-1/AWS/assets/146411027/76d91c0a-9f7d-441b-8c12-d6cbd6054e55)
 
    Elastic Beanstalk, Zoho cloud, Salesforce - software service provider. <br><br>
