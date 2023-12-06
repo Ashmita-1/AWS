@@ -2,9 +2,16 @@
 DATA IS THE NEW OIL
 Oracle is the better
 
-1. **CLOUD COMPUTING** - is the delivery of computing services wherein they provide <u>servers, storage, databases, networking, software, analytics, and intelligence</u> over the internet ("the cloud") for faster innovation, flexible resources, and economies of scale. <br> <br>
+1. **CLOUD COMPUTING** - is the delivery of computing services wherein they provide <u>servers, storage, databases, networking, software, analytics, and intelligence</u> over the internet ("the cloud") for faster innovation, flexible resources, and economies of scale.
+   
+ - On-demand delivery
+ - Pay-as-you-go model
+ - Provision only the size you need(exactly right type and size)
+ - Access resources instantly
+   
+<br> <br>
 
-2. **BENEFITS OF CLOUD**
+5. **BENEFITS OF CLOUD**
    - ***Faster time to market*** - Instead of investing funds in creating a new data structure, the org relies on clouds like AWS and utilises these funds in their business.
      
    - ***Scalability and flexibility*** - cloud offers an **unlimited amount of virtual resources**
@@ -17,7 +24,7 @@ Oracle is the better
      
    - ***Data loss prevention*** - customers cant lose their data in **S3**. <br> <br>
   
-3. **DISADVANTAGES OF CLOUD**
+6. **DISADVANTAGES OF CLOUD**
    - ***Risk of vendor lock-in***- it's **impossible** for the organisation to move from one cloud to another. 
      
    - ***Less control over underlying cloud infrastructure*** - If a company wants more control of their compliance(at the under-neath layer), then it must refrain from using the cloud.
@@ -28,9 +35,9 @@ Oracle is the better
      
    - ***Unforeseen costs and unexpected expenses.*** <br> <br>
   
-4. **GARTNER's MAGIC QUADRANT** -  A big org that does analytics part. <br> <br>
+7. **GARTNER's MAGIC QUADRANT** -  A big org that does analytics part. <br> <br>
 
-5. **PUBLIC CLOUD v/s PRIVATE CLOUD** -
+8. **PUBLIC CLOUD v/s PRIVATE CLOUD** -
 
    
   |Public Cloud|Private Cloud|
@@ -89,4 +96,7 @@ Oracle is the better
    
     - **Domain Name Service - Route 53** 
    
-    - **Direct Connect** - Direct Connect(costliest service) is a service provided by AWS where they connect your data centre to AWS through a wired connection.
+    - **Direct Connect** - Direct Connect(costliest service) is a service provided by AWS where they connect your data centre to AWS through a wired connection. <br><br>
+
+----
+#S3
