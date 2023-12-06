@@ -1,5 +1,6 @@
 # AWS
 DATA IS THE NEW OIL
+Oracle is the better
 
 1. **CLOUD COMPUTING** - is the delivery of computing services wherein they provide <u>servers, storage, databases, networking, software, analytics, and intelligence</u> over the internet ("the cloud") for faster innovation, flexible resources, and economies of scale. <br> <br>
 
@@ -58,8 +59,16 @@ DATA IS THE NEW OIL
 7. **SERVICE MODELS**
    ![image](https://github.com/Ashmita-1/AWS/assets/146411027/76d91c0a-9f7d-441b-8c12-d6cbd6054e55)
 
-   Elastic Beanstalk, zoho cloud, salesforce - software service provider.
+   Elastic Beanstalk, Zoho cloud, Salesforce - software service provider. <br><br>
 
+
+8. **AMAZON WEB SERVICES (AWS)**
+   - Offers 200 fully featured services <br><br>
+   
 8. **COMPUTE SERVICES**
+      -   ***Elastic Compute Cloud (EC2)***
+      -   ***Elastic Container Service (ECS)***
+      -   ***Lambda - Serverless*** - to make a database architecture **serverless**, t
+   
    
 
