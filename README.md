@@ -57,7 +57,7 @@ Oracle is the better
 
 ![image](https://github.com/Ashmita-1/AWS/assets/146411027/f357bc62-dd82-4761-bd8e-34d8a3970e2f)
 
-
+<br><br>
 7. **SERVICE MODELS**
    ![image](https://github.com/Ashmita-1/AWS/assets/146411027/76d91c0a-9f7d-441b-8c12-d6cbd6054e55)
 
