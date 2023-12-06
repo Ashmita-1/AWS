@@ -69,22 +69,28 @@ Oracle is the better
    
 9. **COMPUTE SERVICES**
       -   ***Elastic Compute Cloud (EC2)*** - manage scanning of both EC2 and ECS
-      - 
+        
       -   ***Elastic Container Service (ECS)*** - provides containers
 
       -   ***Lambda - Serverless*** - to make a database architecture **serverless**. <br><br>
 
 10. ***STORAGE SERVICES***
     - **Simple Storage Service (S3)**  - is an object storage which means it is already pre-formatted and doesn't allow formatting at a later stage. Storage is k/a buckets. can put necessary authentication, passwords, and authorization.
-    - 
+      
     - **Elastic Block Store (EBS)** - that storage which **can be formatted** at any point of  time and is generally which are attached to an OS. Provides volume which can be attached to our EC@ instances.
       
-    - **Elastic File System (EFS)** - 
-    - **Archival Service - Glacier**
+    - **Elastic File System (EFS)** - is a **shared** file system which is used in BRDB solutions (multiple clients working on a single desk i.e. database.) can be used in logging instances. Provides seamless storage.
+      
+    - **Archival Service - Glacier** - AWS Glacier provides **cheapest** storage where data is not used regularly.   
    
 **RAID 5(Redundant Array of Independent Disks)** - data is sliced in 3 disks. 1disk - 1, 5,9,10 2disk - 2, 6,7  3disk - 3,4,8. If 1 disk is damaged, still it can be recovered. are done on hardware. <br><br>
 
-11.
+11. ***NETWORK SERVICES***
+    - **Virtual Private Cloud (VPC)** - Internal network. 
+   
+    - **Domain Name Service - Route 53** -
+   
+    - **Direct Connect** - 
 
 
    
