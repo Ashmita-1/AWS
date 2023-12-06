@@ -100,12 +100,32 @@ Oracle is the better
 
 ----
 # S3
+
+1. **S3**
 - Object Storage with durability of 99.99999%, 11 9's
 - Infinitely scaling storage
 - Can keep files in buckets
 - S3 is a global service but buckets are created in specific regions
 - Globally unique bucket names.
 
-- **Durability - 11 9's durability** = if 1,00,00,000 objects are stored, avg incurred loss of a single object once every 10,000 years.
+2. **Durability** - **11 9's durability** = if 1,00,00,000 objects are stored, avg incurred loss of a single object once every 10,000 years.
   
-- **S3 standard has 99.99% availabilty = not available 53 minutes a year.**
+3. **S3 standard has 99.99% availabilty = not available 53 minutes a year.**
+
+4. **SECURITY**
+   - ***User based*** - IAM policies
+     
+   - ***Resource based***
+       - Bucket policies
+       - Bucket ACLs
+       - Object ACLs
+
+   - ***Public vs Private accessible Buckets***
+
+   - ***Object versioning***
+  
+   - ***State-of-the-art in transit and at-rest encryption***
+  
+5. **STORAGE CLASSES**
+    ![image](https://github.com/Ashmita-1/AWS/assets/146411027/d0d962ae-3b40-4b31-9c83-8244377e0486)
+
