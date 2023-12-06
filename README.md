@@ -55,7 +55,7 @@ Oracle is the better
      
    - ***SaaS(Software as a Service)***
 
-![image](https://github.com/Ashmita-1/AWS/assets/146411027/f357bc62-dd82-4761-bd8e-34d8a3970e2f)
+
 
 <br><br>
 7. **SERVICE MODELS**
