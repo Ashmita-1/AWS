@@ -50,7 +50,9 @@ Oracle is the better
 
 6. **CLOUD SERVICE MODEL**
    - ***IaaS(Infrastructure as a Service)***
+     
    - ***PaaS(Platform as a Service)***
+     
    - ***SaaS(Software as a Service)***
 
 ![image](https://github.com/Ashmita-1/AWS/assets/146411027/f357bc62-dd82-4761-bd8e-34d8a3970e2f)
@@ -66,9 +68,24 @@ Oracle is the better
    - Offers 200 fully featured services <br><br>
    
 9. **COMPUTE SERVICES**
-      -   ***Elastic Compute Cloud (EC2)***
-      -   ***Elastic Container Service (ECS)***
-      -   ***Lambda - Serverless*** - to make a database architecture **serverless**, t
+      -   ***Elastic Compute Cloud (EC2)*** - manage scanning of both EC2 and ECS
+      - 
+      -   ***Elastic Container Service (ECS)*** - provides containers
+
+      -   ***Lambda - Serverless*** - to make a database architecture **serverless**. <br><br>
+
+10. ***STORAGE SERVICES***
+    - **Simple Storage Service (S3)**  - is an object storage which means it is already pre-formatted and doesn't allow formatting at a later stage. Storage is k/a buckets. can put necessary authentication, passwords, and authorization.
+    - 
+    - **Elastic Block Store (EBS)** - that storage which **can be formatted** at any point of  time and is generally which are attached to an OS. Provides volume which can be attached to our EC@ instances.
+      
+    - **Elastic File System (EFS)** - 
+    - **Archival Service - Glacier**
    
+**RAID 5(Redundant Array of Independent Disks)** - data is sliced in 3 disks. 1disk - 1, 5,9,10 2disk - 2, 6,7  3disk - 3,4,8. If 1 disk is damaged, still it can be recovered. are done on hardware. <br><br>
+
+11.
+
+
    
 
