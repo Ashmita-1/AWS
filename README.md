@@ -88,6 +88,6 @@ Oracle is the better
 11. ***NETWORK SERVICES***
     - **Virtual Private Cloud (VPC)** - Internal network. 
    
-    - **Domain Name Service - Route 53** - Direct Connect(costliest service) is a service provided by AWS where they connect your data centre to AWS through a wired connection.
+    - **Domain Name Service - Route 53** 
    
-    - **Direct Connect** - 
+    - **Direct Connect** - Direct Connect(costliest service) is a service provided by AWS where they connect your data centre to AWS through a wired connection.
