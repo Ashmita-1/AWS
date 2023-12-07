@@ -148,5 +148,23 @@ Oracle is the better
    a. ***C-type instances*** - CPU intensive which provides more **CPU**
    b. ***M-type instances*** - General purpose instances which have **balanced** memory and CPU
    c. ***R-type instances*** - which has more **RAM**
-   d. ***T-type instances*** 34min
+   d. ***T-type instances***
+
+8. **EC2**
+   - ***Security Groups***- short workload, predictable pricing, pay by second
+   - ***Reserved*** (1 and 3 years)
+   - ***Reserved instances*** - a commitment to an account of usage, long workload, 1 and 3 years upfront commitment, can save up to 72% of billing.
+   - ***Spot Instances*** - short workloads, cheap, can lose instances (less reliable)
+     
+   - ***Dedicated hosts*** - book an entire physical server, control instance placement, most expensive EC2, use case - BYOL, compliance or regulations.
+  - ***Dedicated instances*** - no other customers will share your hardware. <br><br>
+
+9. **ELASTIC LOAD BALANCERS (ELB)**
+    - Implementation of Horizontal Scaling
+    - Required for High availability
+    - Types of load balancers
+         - ***Classic Load Balancer*** - Layer 4 and 7. works as a **reverse proxy**. Can do **virtual hosting** based on **port number**
+         - ***Application Load Balancer*** - Layer 7. Certain things like **virtual hosting** based on **path** can only work in layer 7. Eg: Apache Web Server. 
+         - ***Network Load Balancer***  - Layer 4
+    ..
 
