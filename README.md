@@ -166,5 +166,19 @@ Oracle is the better
          - ***Classic Load Balancer*** - Layer 4 and 7. works as a **reverse proxy**. Can do **virtual hosting** based on **port number**
          - ***Application Load Balancer*** - Layer 7. Certain things like **virtual hosting** based on **path** can only work in layer 7. Eg: Apache Web Server. 
          - ***Network Load Balancer***  - Layer 4
-    ..
+
+10. **AUTOSCALING**
+    - ***Self-healing Implementation*** for dynamic loads.
+    - Can create and terminate instances automatically
+    - ***Manual scaling***: update the size of an ASG manually
+    - ***Dynamic Scaling***: Respond to changing demand
+    - ***Simple/Step scaling***
+       - When a CloudWatch alarm is triggered (eg CPU>70%), then add 2 units
+       - When a CloudWatch alarm is triggered (Eg CPU<30%), then remove 1
+   - ***SIMPLE/STEP SCALING***
+      - To keep avg ASG CPU around 40%
+   -***Scheduled scaling***
+      - Anticipate a scaling based on known usage patterns
+      - As scheduled patterns
+              
 
