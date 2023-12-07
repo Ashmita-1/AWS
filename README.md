@@ -148,5 +148,5 @@ Oracle is the better
    a. ***C-type instances*** - CPU intensive which provides more **CPU**
    b. ***M-type instances*** - General purpose instances which have **balanced** memory and CPU
    c. ***R-type instances*** - which has more **RAM**
-   d. ***T-type instances***
+   d. ***T-type instances*** 34min
 
