@@ -127,5 +127,26 @@ Oracle is the better
    - ***State-of-the-art in transit and at-rest encryption***
   
 5. **STORAGE CLASSES**
-    ![image](https://github.com/Ashmita-1/AWS/assets/146411027/d0d962ae-3b40-4b31-9c83-8244377e0486)
+    ![image](https://github.com/Ashmita-1/AWS/assets/146411027/d0d962ae-3b40-4b31-9c83-8244377e0486) <br><br>
+
+
+6. **EC2**
+   - Most popular AWS offering
+   - Infrastructure as a code service
+   - Provides rented Virtual machines
+   - EC2 uses EBS and instance store to store data
+   - EC2 uses ELB to ditribute data
+   - EC2 uses autoscaling for scaling purposes
+   - Bootstrapping can be done using userdata scripts.
+  
+**Instance store vs EBS**
+|---|---|
+|a. Fastest storage.||
+|b. Once shut, data is wiped off.||
+
+7. **EC2 Instance Type**
+   a. ***C-type instances*** - CPU intensive which provides more **CPU**
+   b. ***M-type instances*** - General purpose instances which have **balanced** memory and CPU
+   c. ***R-type instances*** - which has more **RAM**
+   d. ***T-type instances***
 
